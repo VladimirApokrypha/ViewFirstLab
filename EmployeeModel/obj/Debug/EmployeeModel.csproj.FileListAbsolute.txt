@@ -1,0 +1,6 @@
+C:\Users\Владимир\source\repos\Lab7\EmployeeModel\bin\Debug\EmployeeModel.dll
+C:\Users\Владимир\source\repos\Lab7\EmployeeModel\bin\Debug\EmployeeModel.pdb
+C:\Users\Владимир\source\repos\Lab7\EmployeeModel\obj\Debug\EmployeeModel.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\source\repos\Lab7\EmployeeModel\obj\Debug\EmployeeModel.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Lab7\EmployeeModel\obj\Debug\EmployeeModel.dll
+C:\Users\Владимир\source\repos\Lab7\EmployeeModel\obj\Debug\EmployeeModel.pdb
